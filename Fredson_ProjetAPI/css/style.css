@@ -1,0 +1,57 @@
+/*Background sur le fond*/
+
+/* Style pour la Navbar*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+nav #navbar ul {
+    display: flex;
+    margin-right: 15em;
+    
+}
+
+figure:first-of-type{
+    margin-left: 15em;
+}
+#navbar ul li {
+    margin-left: 2em;
+    font-size: 1em;
+    list-style-type: none;
+    
+    
+}
+
+ul:first-of-type a {
+    text-decoration-line: none;
+    color:#701e3a ;
+    font-weight: bold;
+    
+
+}
+
+#espace {
+    width: 50em;
+    height: 10em;
+    background-color: violet;
+}
+
+/* Style appliqué sur le main*/
+main {
+    
+    
+}
+
+#container {
+    padding-left: 25em;
+    padding-right: 25em;
+    border: white 1px solid;
+    
+}
+
+#prezapi {
+    text-align: center;
+}
+
